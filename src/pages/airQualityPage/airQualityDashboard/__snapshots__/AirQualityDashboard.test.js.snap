@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AirQualityDashboard renders as expected 1`] = `
+<div
+  className="air-quality-dashboard flex flex-wrap justify-around"
+>
+  <div
+    className="location-panel ba b--gray br1 ml5 mb5 w-30"
+  >
+    <div
+      className="pv2 ph3 flex justify-between"
+    >
+      Place De Lopera, Paris
+      <div>
+        (
+        48.8704
+        ,
+         
+        2.33241
+        )
+      </div>
+    </div>
+    <div
+      className="h4 pv2 ph3 flex justify-center items-center f1"
+    >
+      27
+    </div>
+    <div
+      className="f7 pv2"
+    >
+      <div
+        className="flex justify-between pv1 ph3"
+      >
+        <div>
+          AirParif - Association de surveillance de la qualité de l'air en Île-de-France
+        </div>
+        <a
+          className="blue pl3"
+          href="http://www.airparif.asso.fr/"
+        >
+          http://www.airparif.asso.fr/
+        </a>
+      </div>
+      <div
+        className="flex justify-between pv1 ph3"
+      >
+        <div>
+          World Air Quality Index Project
+        </div>
+        <a
+          className="blue pl3"
+          href="https://waqi.info/"
+        >
+          https://waqi.info/
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    className="location-panel ba b--gray br1 ml5 mb5 w-30"
+  >
+    <div
+      className="pv2 ph3 flex justify-between"
+    >
+      Paris
+      <div>
+        (
+        48.856614
+        ,
+         
+        2.3522219
+        )
+      </div>
+    </div>
+    <div
+      className="h4 pv2 ph3 flex justify-center items-center f1"
+    >
+      12
+    </div>
+    <div
+      className="f7 pv2"
+    >
+      <div
+        className="flex justify-between pv1 ph3"
+      >
+        <div>
+          AirParif - Association de surveillance de la qualité de l'air en Île-de-France
+        </div>
+        <a
+          className="blue pl3"
+          href="http://www.airparif.asso.fr/"
+        >
+          http://www.airparif.asso.fr/
+        </a>
+      </div>
+      <div
+        className="flex justify-between pv1 ph3"
+      >
+        <div>
+          World Air Quality Index Project
+        </div>
+        <a
+          className="blue pl3"
+          href="https://waqi.info/"
+        >
+          https://waqi.info/
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

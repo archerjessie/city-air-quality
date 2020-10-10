@@ -1,0 +1,7 @@
+.city-search-sidebar {
+    height: 100vh;
+    background-color: white;
+    overflow-y: auto;
+    position: obsolute;
+    width: 256px;
+}

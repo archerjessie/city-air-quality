@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AirQualityPage renders as expected 1`] = `
+<div
+  className="flex flex-column"
+>
+  <header
+    className="f2 pv3 ph4 bg-light-purple white flex-grow-0 flex-shrink-0"
+  >
+    Air Quality Index
+  </header>
+  <div
+    className="cf pa5 flex-grow-1 flex-shrink-0 flex items-start"
+  >
+    <div
+      class="fl w-28 tc"
+    >
+      <div
+        className="city-search-sidebar"
+      >
+        <form
+          className="flex"
+          onSubmit={[Function]}
+        >
+          <div
+            className="w5 flex items-center"
+          >
+            <input
+              className="br1 br--top br--left ba b--light-gray ph3 pv2 flex-grow-1 flex-shrink-1"
+              onChange={[Function]}
+              placeholder="Melbourne"
+              type="text"
+              value=""
+            />
+            <button
+              className="br1 bl-0 br--top br--right b--light-gray white pa2 right-0 flex-grow-0 flex-shrink-0"
+              type="submit"
+            >
+              <span
+                aria-label="search"
+                role="img"
+              >
+                🕵️
+              </span>
+            </button>
+          </div>
+        </form>
+        <div
+          className="br1 br--bottom flex flex-column w5 bb bl br b--light-gray border-box"
+        >
+          <div
+            className="ph3 pv2 silver h4 flex items-center justify-center"
+          >
+            Search for a city
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="fl w-72 tc"
+    >
+      <div
+        className="air-quality-dashboard flex flex-wrap justify-around"
+      />
+    </div>
+  </div>
+</div>
+`;

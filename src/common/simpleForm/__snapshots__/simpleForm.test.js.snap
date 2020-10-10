@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimpleForm renders as expected 1`] = `
+<form
+  className="flex"
+  onSubmit={[Function]}
+>
+  <div
+    className="w5 flex items-center"
+  >
+    <input
+      className="br1 br--top br--left ba b--light-gray ph3 pv2 flex-grow-1 flex-shrink-1"
+      onChange={[Function]}
+      placeholder="Melbourne"
+      type="text"
+      value=""
+    />
+    <button
+      className="br1 bl-0 br--top br--right b--light-gray white pa2 right-0 flex-grow-0 flex-shrink-0"
+      type="submit"
+    >
+      <span
+        aria-label="search"
+        role="img"
+      >
+        🕵️
+      </span>
+    </button>
+  </div>
+</form>
+`;
